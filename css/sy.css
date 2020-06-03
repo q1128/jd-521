@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+*{font-family: "方正舒体";}
+body{
+	margin: 0;
+}
+video{
+	position:fixed;
+	right: 0;
+	bottom: 0;
+	min-height: 100%;
+	min-width: 100%;
+	width: auto;
+	height: auto;
+	z-index: -9999;
+}
+img{
+	text-align: center;
+	border-width: thick;
+	border-color: black;
+	border-style: dashed;
+}
+.h,.y{
+	color: #000000;
+	font-size: 6em;}

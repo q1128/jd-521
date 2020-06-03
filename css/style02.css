@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+			margin: 0;
+		}
+		.qw1{
+			position:fixed;
+			right: 0;
+			bottom: 0;
+			min-height: 100%;
+			min-width: 100%;
+			width: 100%;
+			height: 100%;
+			z-index: -9999;
+		}
+*{
+	font-family: "华文楷体";
+	
+}
+#di{
+	height: 10em;width: 100%;
+}
+ul{
+	text-align: center;list-style-type: none;
+}
+ul li img{width: 10em;}
+span{
+	font-size: 3em;
+	color:#000000;
+	letter-spacing: 1em;
+	font-weight: bolder;
+}
+.qw2{
+	width: 100%;
+}
+#wa li{
+	list-style: none;
+	text-align: center;
+	font-size: 2em;
+	color: ivory;
+}
+
