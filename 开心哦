@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>开心哦</title>
+
+<style type="text/css">
+    body{
+        background-color:rgb(4, 30, 65);
+    }
+    .tt{color:rgb(209, 120, 231); font-size:px;} 
+    </style>
+</head>
+<video loop controls="" autoplay="" name="media"><source src="music/enclosed(1).mp3" type="audio/mpeg"type="audio/mpeg" /loop>
+</video>
+<body>
+    
+    <center>
+<h1 class="tt">
+    小仙女，你每天都要开心哦。
+
+</h1>
+</center>
+<marquee scramout= "100" >
+<img src="images/今天的不开心.gif"width="400" height="400">
+<img src="images/明天依旧万丈光芒.png"width="400" height="400">
+<img src="images/嘬一口，别不开心了.png"width="400" height="400">
+<img src="images/乖，别不开心了.png"width="400" height="400">
+<img src="images/明天会更好.png"width="400" height="400">
+<img src="images/爱心弹簧.gif"width="400" height="400">
+<img src="images/比心心.gif"width="400" height="400">
+<img src="images/可爱.png"width="400" height="400">
+<img src="images/啵啵奶茶.jpg"width="400" height="400">
+<img src="images/爱心发射.jpg"width="400" height="400">
+<img src="images/爱你.png"width="400" height="400">
+</marquee>
+
+<a href="index.html"><img src="images/dw.gif" width="100"  vspace="20" align="center"/></a>
+ </body>
+</html>   
